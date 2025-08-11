@@ -1,6 +1,6 @@
 # Hi there, I'm Kenneth Igbo 👋
 
-I'm a passionate Computer Science undergraduate at Jiangsu University (BSc expected 2025), deeply interested in **Artificial Intelligence**, **Software Development**, and **Cybersecurity**. I enjoy building practical solutions and continuously learning new technologies.
+I'm a Computer Science graduate from Jiangsu University (BSc in 2025), deeply interested in **Artificial Intelligence**, **Software Development**, and **Cybersecurity**. I enjoy building practical solutions and continuously learning new technologies.
 
 *   🔭 **I’m currently working on:** Refining my skills in AI/ML (Python, TensorFlow, PyTorch) and exploring full-stack web development (React, Node.js, Django).
 *   🌱 **I’m currently learning:** Advanced concepts in Federated Learning, distributed systems, and cloud platforms like AWS.
